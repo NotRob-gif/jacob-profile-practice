@@ -13,7 +13,7 @@ I am building my technical skills through hands-on labs and preparing for CompTI
 
 ## Links
 [GitHub](https://github.com/NotRob-gif)
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[LinkedIn](https://www.linkedin.com/in/jacob-borton-9930b4431/)
 
 ## Favorite Quote
 "It's not that I'm so smart, it's just that I stay with problems longer."
